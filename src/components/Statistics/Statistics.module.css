@@ -1,0 +1,8 @@
+.statistics-list {
+  list-style: none;
+}
+
+.statistics-item {
+  display: flex;
+  flex-direction: column;
+}
